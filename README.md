@@ -79,4 +79,4 @@ The dataset comes from [Data Science Dojo's Titanic dataset](https://raw.githubu
 ---
 
 ✍️ Project by **Tanvi Singh**  
-📫 Reach me at **tanvisingh@email.com**
+📫 Reach me at **tanvi.singh.151106@gmail.com**
